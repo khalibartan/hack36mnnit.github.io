@@ -523,7 +523,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 #services .service-icon {
   float: left;
   background: #03C4EB;
-  padding: 3px;
+  padding: 10px;
   border-radius: 50%;
   transition: 0.5s;
   border: 1px solid #03C4EB;
@@ -543,7 +543,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #services .service-title {
-  margin-left: 40px;
+  margin-left: 60px;
   font-weight: 700;
   margin-bottom: 15px;
   text-transform: uppercase;
@@ -554,7 +554,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #services .service-description {
-  margin-left: 40px;
+  margin-left: 60px;
   line-height: 24px;
 }
 
