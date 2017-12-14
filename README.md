@@ -11,7 +11,7 @@ Feel free to send a pull request.
 ```bash
 git clone https://github.com/hack36mnnit/hack36mnnit.github.io
 cd hack36mnnit.github.io
-python -m SimpleHTTPServer
+python2 -m SimpleHTTPServer
 ```
 
 Now browse to http://localhost:8000
